@@ -1,4 +1,7 @@
-### Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=JIYA%20&fontSize=90&animation=fadeIn&fontAlignY=38)
+
+
 
 <!--
 **jiyaa29/jiyaa29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
